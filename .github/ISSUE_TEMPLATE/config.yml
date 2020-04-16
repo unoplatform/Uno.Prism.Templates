@@ -1,0 +1,20 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a Question for Prism.Forms
+    url: https://stackoverflow.com/questions/ask?tags=prism&tags=xamarin.forms
+    about: Please ask and answer questions for Prism.Forms here.
+  - name: Ask a Question for Prism.Wpf
+    url: https://stackoverflow.com/questions/ask?tags=prism&tags=wpf
+    about: Please ask and answer questions for Prism.Wpf here.
+  - name: Read the Docs
+    url: https://prismlibrary.com/docs
+    about: Be sure you've read the docs!
+  - name: Report missing docs
+    url: https://github.com/PrismLibrary/Prism-Documentation/issues/new
+    about: Did we miss docs on something? Let us know here!
+  - name: Follow Dan on Twitch
+    url: https://twitch.tv/dansiegel
+    about: Watch and interact with Dan as he works on Prism and other things
+  - name: Follow Brian on Twitch
+    url: https://twitch.tv/brianlagunas
+    about: Watch and interact with Brian as he works on Prism and other things
